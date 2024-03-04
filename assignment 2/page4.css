@@ -1,0 +1,579 @@
+.rectangle,
+.rectangle1 {
+  align-self: stretch;
+  height: 1754px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+}
+.rectangle1 {
+  background-color: var(--color-gray-100);
+}
+.rectangle2 {
+  align-self: stretch;
+  height: 232px;
+  background-color: var(--color-white);
+}
+.image,
+.rectangle2,
+.rectangle3 {
+  position: relative;
+  display: none;
+}
+.rectangle3 {
+  align-self: stretch;
+  height: 1374px;
+  background-color: var(--color-gray-500);
+}
+.image {
+  width: 280px;
+  height: 375px;
+}
+.rectangle4,
+.rectangle5 {
+  align-self: stretch;
+  height: 148px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+}
+.rectangle5 {
+  height: 232px;
+  background-color: var(--color-white);
+}
+.call-for-your,
+.rectangle6 {
+  position: relative;
+  max-width: 100%;
+}
+.rectangle6 {
+  height: 32px;
+  width: 1200px;
+  background-color: var(--color-gray-100);
+  display: none;
+}
+.call-for-your {
+  width: 613px;
+  letter-spacing: 2px;
+  line-height: 24px;
+  text-transform: uppercase;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 5;
+}
+.rectangle-group {
+  align-self: stretch;
+  background-color: var(--color-gray-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-xl) var(--padding-9xs)
+    var(--padding-2xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 4;
+}
+.mind-and-body,
+.rectangle7 {
+  position: relative;
+  max-width: 100%;
+}
+.rectangle7 {
+  height: 40px;
+  width: 335px;
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  display: none;
+}
+.mind-and-body {
+  width: calc(100% - 50px);
+  border: 0;
+  outline: 0;
+  font-family: var(--font-playfair-display);
+  font-size: var(--font-size-2xl);
+  background-color: transparent;
+  height: 22px;
+  flex: 1;
+  letter-spacing: 0.68px;
+  line-height: 22px;
+  color: var(--color-gray-200);
+  text-align: center;
+  display: inline-block;
+  min-width: 194px;
+  z-index: 5;
+}
+.text-frame-w-l-c {
+  width: 335px;
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-8xs) var(--padding-8xs) var(--padding-smi);
+  max-width: 100%;
+  z-index: 4;
+}
+.call-to-action-frame,
+.call-to-action-frame1 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+  z-index: 4;
+}
+.call-to-action-frame-parent,
+.text-frame-m-h {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.text-frame-m-h {
+  width: 635px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.home,
+.services {
+  letter-spacing: 3px;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+.home,
+.our-team,
+.services,
+.text-frame-m-t {
+  position: relative;
+  z-index: 4;
+}
+.our-team {
+  letter-spacing: 3px;
+  line-height: 24px;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.text-frame-m-t {
+  height: 16px;
+  width: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.our-team-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 4px;
+}
+.accepted-insurance,
+.contact-us,
+.learn-more {
+  position: relative;
+  letter-spacing: 3px;
+  line-height: 24px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  z-index: 4;
+}
+.home-services-frame,
+.team-frame {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.team-frame {
+  flex: 1;
+  display: flex;
+  justify-content: flex-start;
+  gap: 0 32px;
+  max-width: 100%;
+}
+.home-services-frame {
+  align-self: stretch;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.body-frame,
+.header-frame,
+.home-services-frame,
+.rectangle-parent {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.body-frame {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 24px 0;
+}
+.header-frame,
+.rectangle-parent {
+  box-sizing: border-box;
+}
+.header-frame {
+  width: 936px;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 var(--padding-xl);
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.rectangle-parent {
+  align-self: stretch;
+  background-color: var(--color-white);
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 var(--padding-37xl);
+  gap: 56px 0;
+  z-index: 3;
+}
+.rectangle8 {
+  width: 1200px;
+  height: 1374px;
+  position: relative;
+  background-color: var(--color-gray-500);
+  display: none;
+  max-width: 100%;
+}
+.meet-the-team {
+  position: relative;
+  letter-spacing: 2px;
+  line-height: 22.4px;
+  text-transform: uppercase;
+  z-index: 4;
+}
+.talia-nelson-msn {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.93px;
+  line-height: 37.5px;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 4;
+}
+.team-member-profile {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  font-size: var(--font-size-11xl);
+  font-family: var(--font-playfair-display);
+}
+.footer-frame,
+.meet-the-team-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.meet-the-team-parent {
+  width: 884px;
+  flex-direction: column;
+  gap: 29px 0;
+}
+.footer-frame {
+  width: 975px;
+  flex-direction: row;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-gray-100);
+  font-family: var(--font-lora);
+}
+.learn-more-button {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 5;
+}
+.services-section {
+  height: 479px;
+  width: 370px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 12px 0 0;
+  box-sizing: border-box;
+  min-width: 370px;
+  max-width: 100%;
+}
+.talia-nelson-is {
+  margin: 0;
+  width: 604px;
+  position: relative;
+  font-size: inherit;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 4;
+}
+.rectangle9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  box-shadow: 0 3px 18px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.meet-talia-icon {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+  z-index: 5;
+}
+.team-member-info {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-gray-100);
+  height: 65px;
+  width: 65px;
+  position: absolute;
+  margin: 0 !important;
+  top: 73px;
+  right: 0;
+  box-shadow: 0 3px 18px rgba(0, 0, 0, 0.25);
+  z-index: 4;
+}
+.specializing-in-the {
+  width: 596px;
+  max-width: 100%;
+}
+.commencing-her-medical,
+.for-talia-her,
+.specializing-in-the,
+.talias-clinical-acumen {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 30px;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 4;
+}
+.talias-clinical-acumen {
+  width: 578px;
+  max-width: 100%;
+}
+.commencing-her-medical,
+.for-talia-her {
+  width: 608px;
+}
+.for-talia-her {
+  width: 604px;
+}
+.specialization-title {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 30px 0;
+  max-width: 100%;
+}
+.our-team-heading {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  position: relative;
+}
+.contact-us-c-t-a,
+.copyright-frame,
+.our-team-heading,
+.rectangle-shape {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.contact-us-c-t-a {
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 30px 0;
+  min-width: 465px;
+}
+.copyright-frame,
+.rectangle-shape {
+  align-self: stretch;
+}
+.rectangle-shape {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0 27px;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkgray);
+  font-family: var(--font-lora);
+}
+.copyright-frame {
+  background-color: var(--color-gray-500);
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-21xl) 24px var(--padding-19xl) 63px;
+  box-sizing: border-box;
+  gap: 36px 0;
+  z-index: 3;
+}
+.rectangle10 {
+  height: 148px;
+  width: 1200px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+  max-width: 100%;
+}
+.copyright-2024,
+.mind-and-body1 {
+  position: relative;
+  letter-spacing: 1px;
+  line-height: 18px;
+  text-transform: uppercase;
+  z-index: 6;
+}
+.copyright-2024 {
+  width: 434px;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.mind-and-body1 {
+  align-self: stretch;
+}
+.mind-body-wellness {
+  width: 298px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-9xs);
+  box-sizing: border-box;
+  text-align: right;
+}
+.copyright-text,
+.main-frame {
+  background-color: var(--color-gray-100);
+  display: flex;
+  color: var(--color-white);
+  font-family: var(--font-lora);
+}
+.copyright-text {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  padding: var(--padding-38xl) var(--padding-113xl) var(--padding-36xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  z-index: 5;
+  text-align: left;
+  font-size: var(--font-size-xs);
+}
+.main-frame {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  letter-spacing: normal;
+  z-index: 1;
+  text-align: center;
+  font-size: var(--font-size-base);
+}
+@media screen and (max-width: 1200px) {
+  .copyright-frame {
+    padding-top: var(--padding-7xl);
+    padding-bottom: 25px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .team-frame {
+    display: none;
+  }
+  .header-frame {
+    max-width: calc(100% - 20px);
+  }
+  .talia-nelson-msn {
+    font-size: var(--font-size-5xl);
+    line-height: 30px;
+  }
+  .learn-more-button {
+    align-self: stretch;
+    width: auto;
+  }
+  .services-section {
+    flex: 1;
+  }
+  .copyright-text,
+  .rectangle-shape {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 750px) {
+  .rectangle-parent {
+    gap: 56px 0;
+  }
+  .contact-us-c-t-a,
+  .services-section {
+    min-width: 100%;
+  }
+  .copyright-frame {
+    gap: 36px 0;
+    padding-left: 31px;
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .copyright-text {
+    padding-left: var(--padding-47xl);
+    padding-right: var(--padding-47xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .mind-and-body {
+    font-size: var(--font-size-mid);
+    line-height: 18px;
+  }
+  .team-frame {
+    gap: 0 32px;
+  }
+  .talia-nelson-msn {
+    font-size: var(--font-size-lg);
+    line-height: 22px;
+  }
+  .commencing-her-medical,
+  .for-talia-her,
+  .specializing-in-the,
+  .talia-nelson-is,
+  .talias-clinical-acumen {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .copyright-text {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

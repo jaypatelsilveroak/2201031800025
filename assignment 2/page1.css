@@ -1,0 +1,979 @@
+.rectangle,
+.rectangle1,
+.rectangle2,
+.rectangle3 {
+  align-self: stretch;
+  height: 3286px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+}
+.rectangle1,
+.rectangle2,
+.rectangle3 {
+  background-color: var(--color-gray-100);
+}
+.rectangle2,
+.rectangle3 {
+  height: 672px;
+  background-color: var(--color-white);
+}
+.rectangle3 {
+  height: 1229px;
+  z-index: 5;
+}
+.rectangle4,
+.rectangle5 {
+  height: 204px;
+  background-color: var(--color-white);
+}
+.rectangle4 {
+  align-self: stretch;
+  position: relative;
+  display: none;
+  z-index: 7;
+}
+.rectangle5 {
+  z-index: 8;
+}
+.rectangle5,
+.rectangle6,
+.rectangle7 {
+  align-self: stretch;
+  position: relative;
+  display: none;
+}
+.rectangle6 {
+  height: 234px;
+  background-color: var(--color-gray-100);
+  z-index: 9;
+}
+.rectangle7 {
+  height: 672px;
+  background-color: var(--color-white);
+}
+.call-for-your,
+.rectangle8 {
+  position: relative;
+  max-width: 100%;
+}
+.rectangle8 {
+  height: 32px;
+  width: 1200px;
+  background-color: var(--color-gray-100);
+  display: none;
+}
+.call-for-your {
+  width: 613px;
+  letter-spacing: 2px;
+  line-height: 24px;
+  text-transform: uppercase;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 5;
+}
+.rectangle-parent {
+  align-self: stretch;
+  background-color: var(--color-gray-100);
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-9xs) var(--padding-xl) var(--padding-9xs)
+    var(--padding-2xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 4;
+}
+.mind-and-body,
+.rectangle9 {
+  position: relative;
+  max-width: 100%;
+}
+.rectangle9 {
+  height: 40px;
+  width: 335px;
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  display: none;
+}
+.mind-and-body {
+  width: calc(100% - 50px);
+  border: 0;
+  outline: 0;
+  font-family: var(--font-playfair-display);
+  font-size: var(--font-size-2xl);
+  background-color: transparent;
+  height: 22px;
+  flex: 1;
+  letter-spacing: 0.68px;
+  line-height: 22px;
+  color: var(--color-gray-200);
+  text-align: center;
+  display: inline-block;
+  min-width: 194px;
+  z-index: 5;
+}
+.mental-health-l-l-c {
+  width: 335px;
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-8xs) var(--padding-8xs) var(--padding-smi);
+  max-width: 100%;
+  z-index: 4;
+}
+.frame-icon,
+.frame-icon1 {
+  height: 40px;
+  width: 40px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  min-height: 40px;
+  z-index: 4;
+}
+.frame-container,
+.mental-health-l-l-c-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.mental-health-l-l-c-parent {
+  width: 635px;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.home {
+  position: relative;
+  letter-spacing: 3px;
+  line-height: 24px;
+  text-transform: uppercase;
+  z-index: 5;
+}
+.our-providers {
+  width: 100%;
+  height: 29px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 4;
+}
+.copyright-info {
+  align-self: stretch;
+  height: 1px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  z-index: 4;
+}
+.home-text {
+  width: 56px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  gap: 5px 0;
+}
+.services {
+  letter-spacing: 3px;
+  line-height: 24px;
+  text-transform: uppercase;
+}
+.home-icon,
+.our-team,
+.services {
+  position: relative;
+  z-index: 4;
+}
+.our-team {
+  letter-spacing: 3px;
+  line-height: 24px;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+.home-icon {
+  height: 16px;
+  width: 16px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.book-service-text {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 0 4px;
+}
+.accepted-insurance,
+.contact-us,
+.learn-more {
+  position: relative;
+  letter-spacing: 3px;
+  line-height: 24px;
+  text-transform: uppercase;
+  white-space: nowrap;
+  z-index: 4;
+}
+.service-frame {
+  flex-direction: row;
+  align-items: flex-start;
+  gap: 0 32px;
+}
+.frame-group,
+.service-frame,
+.service-frame-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.service-frame-wrapper {
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 var(--padding-xl) 0 0;
+  box-sizing: border-box;
+}
+.frame-group {
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 24px 0;
+}
+.image {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 4;
+}
+.background-image-container-child {
+  position: absolute;
+  top: 42px;
+  left: 92px;
+  width: 432px;
+  height: 246px;
+  object-fit: cover;
+  z-index: 5;
+}
+.background-image-container,
+.rectangle10 {
+  height: 400px;
+  position: relative;
+  max-width: 100%;
+}
+.background-image-container {
+  flex: 1;
+  min-width: 356px;
+}
+.rectangle10 {
+  width: 388px;
+  background-color: var(--color-honeydew);
+  display: none;
+}
+.building-bridges-to {
+  margin: 0;
+  width: 304px;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 3.75px;
+  line-height: 37.5px;
+  text-transform: uppercase;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  z-index: 6;
+}
+.experience-compassionate-care {
+  width: 290px;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  color: var(--color-dimgray-500);
+  display: inline-block;
+  z-index: 6;
+}
+.heading-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 18px 0;
+}
+.rectangle11 {
+  height: 56px;
+  width: 212px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+}
+.book-service {
+  width: 148px;
+  position: relative;
+  font-size: var(--font-size-sm);
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  font-family: var(--font-lora);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 7;
+}
+.accepted-insurance-frame {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-lgi);
+  background-color: var(--color-gray-100);
+  width: 212px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  box-sizing: border-box;
+  white-space: nowrap;
+  z-index: 6;
+}
+.accepted-insurance-frame:hover {
+  background-color: var(--color-dimgray-200);
+}
+.our-team-frame {
+  background-color: var(--color-honeydew);
+  flex-direction: column;
+  align-items: center;
+  padding: var(--padding-36xl) 42px var(--padding-37xl);
+  box-sizing: border-box;
+  gap: 30px 0;
+  min-width: 388px;
+  z-index: 5;
+}
+.footer-frame,
+.frame-parent,
+.our-team-frame,
+.subheader-frame {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.footer-frame {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  row-gap: 20px;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+  color: var(--color-dimgray-400);
+}
+.frame-parent,
+.subheader-frame {
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.frame-parent {
+  width: 976px;
+  align-items: flex-end;
+  padding: 0 var(--padding-xl);
+  gap: 50px 0;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-gray-200);
+}
+.subheader-frame {
+  align-self: stretch;
+  background-color: var(--color-white);
+  align-items: center;
+  padding: 0 0 var(--padding-21xl);
+  gap: 56px 0;
+  z-index: 3;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-lora);
+}
+.rectangle12,
+.rectangle13 {
+  position: relative;
+  display: none;
+  max-width: 100%;
+}
+.rectangle12 {
+  height: 1229px;
+  width: 1200px;
+  background-color: var(--color-white);
+  z-index: 0;
+}
+.rectangle13 {
+  width: 936px;
+  height: 486px;
+  background-color: var(--color-honeydew);
+}
+.compassionate-care-is,
+.our-experienced-providers,
+.please-note-that {
+  margin: 0;
+  position: relative;
+  font-weight: 400;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 7;
+}
+.compassionate-care-is {
+  width: 766px;
+  font-size: var(--font-size-10xl);
+  letter-spacing: 0.93px;
+  line-height: 37.5px;
+  font-family: var(--font-playfair-display);
+  color: var(--color-gray-100);
+}
+.our-experienced-providers,
+.please-note-that {
+  width: 860px;
+  font-size: inherit;
+  line-height: 30px;
+  font-family: inherit;
+}
+.evaluation-and-care-frame,
+.rectangle14 {
+  background-color: var(--color-honeydew);
+  max-width: 100%;
+}
+.evaluation-and-care-frame {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-11xl) var(--padding-11xl) 120px;
+  box-sizing: border-box;
+  gap: 29px 0;
+  z-index: 6;
+}
+.rectangle14 {
+  width: 444px;
+  height: 396px;
+  position: relative;
+  display: none;
+}
+.mind-and-body1,
+.providers-you-can {
+  margin: 0;
+  position: relative;
+  font-weight: 400;
+  display: inline-block;
+  z-index: 7;
+}
+.providers-you-can {
+  font-size: inherit;
+  letter-spacing: 0.93px;
+  line-height: 37.5px;
+  font-family: inherit;
+  max-width: 100%;
+}
+.mind-and-body1 {
+  width: 373px;
+  font-size: var(--font-size-xl);
+  line-height: 30px;
+  font-family: var(--font-lora);
+  color: var(--color-dimgray-100);
+}
+.providers-you-can-trust-and-as,
+.rectangle15 {
+  background-color: var(--color-honeydew);
+  max-width: 100%;
+}
+.providers-you-can-trust-and-as {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-11xl) var(--padding-16xl) 91px var(--padding-17xl);
+  box-sizing: border-box;
+  gap: 27px 0;
+  z-index: 6;
+}
+.rectangle15 {
+  width: 444px;
+  height: 583px;
+  position: relative;
+  display: none;
+}
+.ask-about-our,
+.we-bring-mental {
+  margin: 0;
+  position: relative;
+  font-weight: 400;
+  display: inline-block;
+  z-index: 7;
+}
+.ask-about-our {
+  width: 345px;
+  font-size: inherit;
+  letter-spacing: 0.93px;
+  line-height: 37.5px;
+  font-family: inherit;
+  max-width: 100%;
+}
+.we-bring-mental {
+  width: 380px;
+  font-size: var(--font-size-xl);
+  line-height: 30px;
+  font-family: var(--font-lora);
+  color: var(--color-dimgray-100);
+}
+.providers-you-can-trust-and-as1 {
+  background-color: var(--color-honeydew);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-11xl);
+  box-sizing: border-box;
+  gap: 28px 0;
+  max-width: 100%;
+  z-index: 6;
+  font-size: var(--font-size-11xl);
+}
+.experienced-providers-frame,
+.mind-body-wellness-delivers-co {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.mind-body-wellness-delivers-co {
+  flex-direction: row;
+  gap: 0 48px;
+  font-size: var(--font-size-10xl);
+  color: var(--color-gray-100);
+  font-family: var(--font-playfair-display);
+}
+.experienced-providers-frame {
+  width: 936px;
+  flex-direction: column;
+  gap: 48px 0;
+}
+.rectangle16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  box-shadow: 0 3px 18px rgba(0, 0, 0, 0.25);
+  width: 100%;
+  height: 100%;
+  display: none;
+}
+.footer-info-frame {
+  position: absolute;
+  right: 10px;
+  bottom: 10px;
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+  z-index: 7;
+}
+.contact-us-text {
+  height: 65px;
+  width: 65px;
+  position: absolute;
+  margin: 0 !important;
+  top: 39px;
+  right: 24px;
+  background-color: var(--color-gray-100);
+  box-shadow: 0 3px 18px rgba(0, 0, 0, 0.25);
+  z-index: 6;
+}
+.building-bridges-to-mental-hea,
+.our-team-text {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.building-bridges-to-mental-hea {
+  flex: 1;
+  background-color: var(--color-white);
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-21xl);
+  position: relative;
+  z-index: 5;
+}
+.our-team-text {
+  align-self: stretch;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-20xl);
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-lora);
+}
+.rectangle17 {
+  align-self: stretch;
+  height: 148px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+  z-index: 12;
+}
+.contact-us1 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  letter-spacing: 0.99px;
+  line-height: 27.5px;
+  font-weight: 400;
+  font-family: inherit;
+  z-index: 8;
+}
+.mind-and-body2 {
+  position: relative;
+  line-height: 24px;
+  z-index: 8;
+}
+.mbwellnessonlinegmailcom,
+.phone-708-260-2030 {
+  position: relative;
+  line-height: 24px;
+  z-index: 9;
+}
+.mbwellnessonlinegmailcom {
+  color: var(--color-gray-300);
+  white-space: nowrap;
+  z-index: 10;
+}
+.contact-details,
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+}
+.contact-details {
+  font-size: var(--font-size-base);
+  color: var(--color-dimgray-100);
+}
+.contact-info {
+  padding: 0 var(--padding-xl) var(--padding-21xl);
+  gap: 24px 0;
+}
+.rectangle18 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 100%;
+  height: 100%;
+  display: none;
+  z-index: 9;
+}
+.rectangle19 {
+  position: absolute;
+  top: 40px;
+  left: 132px;
+  width: 936px;
+  height: 150px;
+  z-index: 10;
+}
+.rectangle-frame {
+  align-self: stretch;
+  height: 234px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  z-index: 9;
+}
+.rectangle20,
+.rectangle21,
+.rectangle22 {
+  height: 800px;
+  width: 1200px;
+  position: relative;
+  background-color: var(--color-gray-100);
+  display: none;
+  max-width: 100%;
+}
+.rectangle21,
+.rectangle22 {
+  height: 346px;
+}
+.rectangle22 {
+  height: 254px;
+  width: 940px;
+}
+.rectangle23 {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 13;
+}
+.services-box-icon {
+  height: 66px;
+  width: 66px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 14;
+}
+.booking-section,
+.provider-info,
+.rectangle-group {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.provider-info {
+  align-items: flex-start;
+  padding: 0 0 var(--padding-7xs);
+  position: relative;
+}
+.booking-section,
+.rectangle-group {
+  box-sizing: border-box;
+}
+.booking-section {
+  height: 254px;
+  width: 940px;
+  background-color: var(--color-gray-100);
+  align-items: flex-start;
+  padding: var(--padding-21xl);
+  max-width: 100%;
+  z-index: 12;
+}
+.rectangle-group {
+  align-self: stretch;
+  flex: 1;
+  align-items: flex-end;
+  padding: var(--padding-19xl);
+  z-index: 11;
+}
+.container,
+.rectangle-group,
+.rectangle24 {
+  background-color: var(--color-gray-100);
+  max-width: 100%;
+}
+.container {
+  align-self: stretch;
+  height: 800px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 0 454px;
+  box-sizing: border-box;
+  z-index: 10;
+}
+.rectangle24 {
+  height: 148px;
+  width: 1200px;
+  position: relative;
+  display: none;
+}
+.copyright-2024,
+.mind-and-body3 {
+  position: relative;
+  letter-spacing: 1px;
+  line-height: 18px;
+  text-transform: uppercase;
+  z-index: 13;
+}
+.copyright-2024 {
+  width: 434px;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.mind-and-body3 {
+  align-self: stretch;
+}
+.company-name {
+  width: 298px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-11xs);
+  box-sizing: border-box;
+  text-align: right;
+}
+.copyright-notice,
+.desktop {
+  background-color: var(--color-gray-100);
+  display: flex;
+  align-items: center;
+  font-family: var(--font-lora);
+}
+.copyright-notice {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: var(--padding-38xl) var(--padding-113xl) var(--padding-36xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  gap: var(--gap-xl);
+  z-index: 12;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-white);
+}
+.desktop {
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  letter-spacing: normal;
+  z-index: 1;
+  text-align: center;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-400);
+}
+@media screen and (max-width: 1200px) {
+  .building-bridges-to-mental-hea {
+    padding-top: var(--padding-7xl);
+    padding-bottom: var(--padding-7xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .service-frame {
+    display: none;
+  }
+  .building-bridges-to {
+    font-size: var(--font-size-5xl);
+    line-height: 30px;
+  }
+  .our-team-frame {
+    flex: 1;
+  }
+  .footer-frame {
+    flex-wrap: wrap;
+  }
+  .ask-about-our {
+    font-size: var(--font-size-5xl);
+    line-height: 30px;
+  }
+  .mind-body-wellness-delivers-co {
+    flex-wrap: wrap;
+  }
+  .container {
+    padding-bottom: 295px;
+    box-sizing: border-box;
+  }
+  .copyright-notice {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 750px) {
+  .our-team-frame {
+    min-width: 100%;
+  }
+  .frame-parent {
+    gap: 50px 0;
+  }
+  .subheader-frame {
+    gap: 56px 0;
+  }
+  .evaluation-and-care-frame {
+    padding-top: var(--padding-xl);
+    padding-bottom: 78px;
+    box-sizing: border-box;
+  }
+  .providers-you-can-trust-and-as1 {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .mind-body-wellness-delivers-co {
+    gap: 0 48px;
+  }
+  .experienced-providers-frame {
+    gap: 48px 0;
+  }
+  .building-bridges-to-mental-hea {
+    padding-top: var(--padding-xl);
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .copyright-notice {
+    padding-left: var(--padding-47xl);
+    padding-right: var(--padding-47xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .mind-and-body {
+    font-size: var(--font-size-mid);
+    line-height: 18px;
+  }
+  .service-frame {
+    gap: 0 32px;
+  }
+  .background-image-container {
+    min-width: 100%;
+  }
+  .building-bridges-to {
+    font-size: var(--font-size-lg);
+    line-height: 22px;
+  }
+  .our-team-frame {
+    gap: 30px 0;
+    padding: var(--padding-17xl) var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .compassionate-care-is {
+    font-size: var(--font-size-4xl);
+    line-height: 30px;
+  }
+  .our-experienced-providers,
+  .please-note-that {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .providers-you-can {
+    font-size: var(--font-size-4xl);
+    line-height: 30px;
+  }
+  .mind-and-body1 {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .providers-you-can-trust-and-as {
+    padding-top: var(--padding-xl);
+    padding-bottom: 59px;
+    box-sizing: border-box;
+  }
+  .ask-about-our {
+    font-size: var(--font-size-lg);
+    line-height: 22px;
+  }
+  .we-bring-mental {
+    font-size: var(--font-size-base);
+    line-height: 24px;
+  }
+  .contact-us1 {
+    font-size: var(--font-size-lg);
+    line-height: 22px;
+  }
+  .container {
+    padding-bottom: 192px;
+    box-sizing: border-box;
+  }
+  .copyright-notice {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}

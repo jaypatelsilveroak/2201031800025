@@ -1,0 +1,306 @@
+.rectangle,
+.rectangle1,
+.rectangle2,
+.rectangle3,
+.rectangle4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 1200px;
+  height: 1120px;
+}
+.rectangle1,
+.rectangle2,
+.rectangle3,
+.rectangle4 {
+  background-color: var(--color-gray-100);
+}
+.rectangle2,
+.rectangle3,
+.rectangle4 {
+  background-color: var(--color-white);
+  height: 232px;
+}
+.rectangle4 {
+  background-color: var(--color-gray-100);
+  height: 32px;
+}
+.rectangle5 {
+  position: absolute;
+  top: 88px;
+  left: 433px;
+  border: 1px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 335px;
+  height: 40px;
+}
+.frame-icon,
+.frame-icon1,
+.team-frame-icon {
+  position: absolute;
+  top: 88px;
+  left: 988px;
+  width: 40px;
+  height: 40px;
+  overflow: hidden;
+}
+.frame-icon1,
+.team-frame-icon {
+  left: 1028px;
+}
+.team-frame-icon {
+  top: 156px;
+  left: 468px;
+  width: 16px;
+  height: 16px;
+}
+.rectangle6,
+.rectangle7 {
+  position: absolute;
+  top: 232px;
+  left: 0;
+  background-color: var(--color-gray-500);
+  width: 1200px;
+  height: 740px;
+}
+.image {
+  position: absolute;
+  top: 326px;
+  left: 132px;
+  width: 280px;
+  height: 606px;
+}
+.rectangle10,
+.rectangle8,
+.rectangle9 {
+  position: absolute;
+  top: 972px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 1200px;
+  height: 148px;
+}
+.rectangle10 {
+  top: 711px;
+  left: 1111px;
+  box-shadow: 0 3px 18px rgba(0, 0, 0, 0.25);
+  width: 65px;
+  height: 65px;
+}
+.frame-icon2 {
+  position: absolute;
+  top: 722px;
+  left: 1122px;
+  width: 44px;
+  height: 44px;
+  overflow: hidden;
+}
+.call-for-your,
+.mind-and-body {
+  position: absolute;
+  text-align: center;
+  display: inline-block;
+}
+.call-for-your {
+  top: 4px;
+  left: 294px;
+  font-size: var(--font-size-base);
+  letter-spacing: 2px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: var(--color-white);
+  width: 613px;
+}
+.mind-and-body {
+  top: 93px;
+  left: 450px;
+  font-size: var(--font-size-2xl);
+  letter-spacing: 0.68px;
+  line-height: 22px;
+  font-family: var(--font-playfair-display);
+  color: var(--color-gray-200);
+  width: 301px;
+}
+.accepted-insurance,
+.contact-us,
+.home,
+.learn-more,
+.our-team,
+.services {
+  position: absolute;
+  top: 152px;
+  left: 152px;
+  font-size: var(--font-size-sm);
+  letter-spacing: 3px;
+  line-height: 24px;
+  text-transform: uppercase;
+  color: var(--color-gray-200);
+  display: inline-block;
+  width: 56px;
+}
+.accepted-insurance,
+.contact-us,
+.learn-more,
+.our-team,
+.services {
+  left: 240px;
+  width: 91px;
+}
+.accepted-insurance,
+.contact-us,
+.learn-more,
+.our-team {
+  left: 363px;
+  width: 101px;
+}
+.accepted-insurance,
+.contact-us,
+.learn-more {
+  left: 516px;
+  width: 123px;
+}
+.accepted-insurance,
+.contact-us {
+  left: 671px;
+  width: 125px;
+}
+.accepted-insurance {
+  left: 828px;
+  width: 220px;
+}
+.house-call-services,
+.we-collaborate-with {
+  position: absolute;
+  color: var(--color-gray-100);
+  display: inline-block;
+}
+.house-call-services {
+  top: 272px;
+  left: 132px;
+  font-size: var(--font-size-base);
+  letter-spacing: 2px;
+  line-height: 22.4px;
+  text-transform: uppercase;
+  width: 220px;
+}
+.we-collaborate-with {
+  margin: 0;
+  top: 324px;
+  left: 460px;
+  font-size: var(--font-size-10xl);
+  letter-spacing: 0.93px;
+  line-height: 37.5px;
+  font-weight: 400;
+  font-family: var(--font-playfair-display);
+  width: 480px;
+}
+.primary-care-specialist,
+.wound-care-specialists {
+  position: absolute;
+  top: 433px;
+  left: 460px;
+  line-height: 30px;
+  display: inline-block;
+  width: 228px;
+}
+.wound-care-specialists {
+  top: 463px;
+  width: 226px;
+}
+.occupational-therapists,
+.pain-specialists,
+.physical-therapists,
+.speech-therapists {
+  position: absolute;
+  top: 493px;
+  left: 460px;
+  line-height: 30px;
+  display: inline-block;
+  width: 156px;
+}
+.occupational-therapists,
+.physical-therapists,
+.speech-therapists {
+  top: 523px;
+  width: 190px;
+}
+.occupational-therapists,
+.speech-therapists {
+  top: 553px;
+  width: 239px;
+}
+.speech-therapists {
+  top: 583px;
+  width: 185px;
+}
+.copyright-2024,
+.dieticians,
+.mind-and-body1,
+.nurses,
+.pharmacists,
+.podiatrists {
+  position: absolute;
+  top: 613px;
+  left: 460px;
+  line-height: 30px;
+  display: inline-block;
+  width: 113px;
+}
+.copyright-2024,
+.dieticians,
+.mind-and-body1,
+.nurses,
+.pharmacists {
+  top: 643px;
+  width: 105px;
+}
+.copyright-2024,
+.mind-and-body1,
+.nurses,
+.pharmacists {
+  top: 673px;
+  width: 127px;
+}
+.copyright-2024,
+.mind-and-body1,
+.nurses {
+  top: 703px;
+  width: 81px;
+}
+.copyright-2024,
+.mind-and-body1 {
+  top: 1029px;
+  left: 132px;
+  font-size: var(--font-size-xs);
+  letter-spacing: 1px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: var(--color-white);
+  width: 434px;
+}
+.mind-and-body1 {
+  top: 1037px;
+  left: 770px;
+  text-align: right;
+  width: 298px;
+}
+.main-frame-child {
+  position: absolute;
+  top: 324px;
+  left: 145px;
+  width: 243px;
+  height: 409px;
+  object-fit: cover;
+}
+.main-frame {
+  width: 100%;
+  height: 1120px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-darkgray);
+  font-family: var(--font-lora);
+}

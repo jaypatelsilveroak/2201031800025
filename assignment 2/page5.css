@@ -1,0 +1,1315 @@
+.depression-section,
+.depression-section1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 5814.3px;
+  height: 31828.5px;
+}
+.depression-section1 {
+  background-color: var(--color-gray-100);
+}
+.depression-section2,
+.depression-section3,
+.depression-section4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  width: 5814.3px;
+  height: 1124.1px;
+}
+.depression-section4 {
+  background-color: var(--color-gray-100);
+  height: 155px;
+}
+.bipolar-section {
+  position: absolute;
+  top: 426.4px;
+  left: 2098px;
+  border: 4.8px solid var(--color-gray-200);
+  box-sizing: border-box;
+  width: 1623.2px;
+  height: 193.8px;
+}
+.anxiety-section-icon,
+.depression-section-icon,
+.depression-section-icon1 {
+  position: absolute;
+  top: 426.4px;
+  left: 4787.1px;
+  width: 193.8px;
+  height: 193.8px;
+  overflow: hidden;
+}
+.anxiety-section-icon,
+.depression-section-icon1 {
+  left: 4980.9px;
+}
+.anxiety-section-icon {
+  top: 755.9px;
+  left: 2267.6px;
+  width: 77.5px;
+  height: 77.5px;
+}
+.dementia-section {
+  position: absolute;
+  top: 877px;
+  left: 2500.2px;
+  background-color: var(--color-gray-100);
+  width: 595.8px;
+  height: 4.8px;
+}
+.smoking-addiction {
+  position: absolute;
+  top: 736.5px;
+  left: 2500.2px;
+  width: 596px;
+  height: 140.5px;
+}
+.depression-section5,
+.depression-section6 {
+  position: absolute;
+  top: 1124.1px;
+  left: 0;
+  background-color: var(--color-white);
+  width: 5814.3px;
+  height: 28785.7px;
+}
+.image {
+  position: absolute;
+  top: 1579.6px;
+  left: 639.6px;
+  width: 1356.7px;
+  height: 906.1px;
+}
+.depression-section7,
+.depression-section8 {
+  position: absolute;
+  top: 29909.8px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 5814.3px;
+  height: 1201.6px;
+}
+.image1 {
+  position: absolute;
+  top: 30103.6px;
+  left: 639.6px;
+  width: 1356.7px;
+  height: 814px;
+}
+.depression-section10,
+.depression-section9,
+.insomnia-section {
+  position: absolute;
+  top: 31111.4px;
+  left: 0;
+  background-color: var(--color-gray-100);
+  width: 5814.3px;
+  height: 717.1px;
+}
+.insomnia-section {
+  top: 3445px;
+  left: 5383.1px;
+  box-shadow: 0 14.5px 87.21px rgba(0, 0, 0, 0.25);
+  width: 314.9px;
+  height: 314.9px;
+}
+.p-t-s-d-section {
+  position: absolute;
+  top: 3498.3px;
+  left: 5436.4px;
+  width: 213.2px;
+  height: 213.2px;
+  overflow: hidden;
+}
+.call-for-your {
+  position: absolute;
+  top: 19.4px;
+  left: 1424.5px;
+  letter-spacing: 9.69px;
+  line-height: 116.29px;
+  text-transform: uppercase;
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  width: 2970.1px;
+}
+.home,
+.mind-and-body {
+  color: var(--color-gray-200);
+}
+.mind-and-body {
+  position: absolute;
+  top: 450.6px;
+  left: 2180.4px;
+  font-size: 101.8px;
+  letter-spacing: 3.3px;
+  line-height: 106.6px;
+  font-family: var(--font-playfair-display);
+  text-align: center;
+  display: inline-block;
+  width: 1458.4px;
+}
+.home {
+  top: 736.5px;
+  left: 736.5px;
+  font-size: var(--font-size-48xl-8);
+  letter-spacing: 14.52px;
+  line-height: 116.29px;
+  width: 271.3px;
+}
+.home,
+.our-team,
+.services {
+  position: absolute;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.services {
+  top: 736.5px;
+  left: 1162.9px;
+  font-size: var(--font-size-48xl-8);
+  letter-spacing: 14.52px;
+  line-height: 116.29px;
+  color: var(--color-gray-200);
+  width: 440.9px;
+}
+.our-team {
+  left: 1758.8px;
+  width: 489.4px;
+}
+.contact-us,
+.learn-more,
+.our-team {
+  top: 736.5px;
+  font-size: var(--font-size-48xl-8);
+  letter-spacing: 14.52px;
+  line-height: 116.29px;
+  color: var(--color-gray-200);
+}
+.learn-more {
+  position: absolute;
+  left: 2500.2px;
+  text-transform: uppercase;
+  display: inline-block;
+  width: 596px;
+}
+.contact-us {
+  left: 3251.2px;
+  width: 605.7px;
+}
+.accepted-insurance,
+.common-mental-health,
+.contact-us {
+  position: absolute;
+  text-transform: uppercase;
+  display: inline-block;
+}
+.accepted-insurance {
+  top: 736.5px;
+  left: 4011.9px;
+  font-size: var(--font-size-48xl-8);
+  letter-spacing: 14.52px;
+  line-height: 116.29px;
+  color: var(--color-gray-200);
+  width: 1066px;
+}
+.common-mental-health {
+  top: 1317.9px;
+  left: 639.6px;
+  letter-spacing: 9.69px;
+  line-height: 108.53px;
+  color: var(--color-gray-300);
+  width: 1918.7px;
+}
+.depression,
+.depression-is-a,
+.signs-and-symptoms {
+  position: absolute;
+  left: 2228.8px;
+  display: inline-block;
+}
+.depression {
+  top: 1560.2px;
+  font-size: var(--font-size-208xl-7);
+  letter-spacing: 5.35px;
+  line-height: 279.09px;
+  font-family: var(--font-playfair-display);
+  color: var(--color-gray-400);
+  width: 1225.9px;
+}
+.depression-is-a,
+.signs-and-symptoms {
+  top: 1986.6px;
+  line-height: 116.29px;
+  width: 2771.5px;
+}
+.signs-and-symptoms {
+  top: 2325.7px;
+  width: 1608.6px;
+}
+.feelings-of-guilt,
+.irritability,
+.loss-of-interest,
+.persistent-sad-anxious {
+  position: absolute;
+  top: 2442px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 1371.2px;
+}
+.feelings-of-guilt,
+.irritability,
+.loss-of-interest {
+  top: 2558.3px;
+  width: 377.9px;
+}
+.feelings-of-guilt,
+.loss-of-interest {
+  top: 2674.6px;
+  width: 1778.2px;
+}
+.loss-of-interest {
+  top: 2790.9px;
+  width: 1981.7px;
+}
+.difficulty-concentrating-reme,
+.fatigue-or-loss,
+.feeling-restless,
+.moving-or-talking {
+  position: absolute;
+  top: 2907.2px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 1792.7px;
+}
+.difficulty-concentrating-reme,
+.feeling-restless,
+.moving-or-talking {
+  top: 3023.4px;
+  width: 1521.4px;
+}
+.difficulty-concentrating-reme,
+.feeling-restless {
+  top: 3139.7px;
+  width: 586.3px;
+}
+.difficulty-concentrating-reme {
+  top: 3256px;
+  width: 2233.7px;
+}
+.aches-or-pains,
+.difficulty-sleeping-early-mor,
+.major-change-in,
+.thoughts-of-death {
+  position: absolute;
+  top: 3372.3px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2291.8px;
+}
+.aches-or-pains,
+.major-change-in,
+.thoughts-of-death {
+  top: 3488.6px;
+  width: 1317.9px;
+}
+.aches-or-pains,
+.thoughts-of-death {
+  top: 3614.6px;
+  width: 2519.5px;
+}
+.thoughts-of-death {
+  top: 3837.4px;
+  width: 1066px;
+}
+.bipolar-disorder,
+.learn-more-about,
+.national-institute-of,
+.not-everyone-experiencing {
+  position: absolute;
+  top: 4079.7px;
+  left: 2228.8px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2863.6px;
+}
+.bipolar-disorder,
+.learn-more-about,
+.national-institute-of {
+  top: 4651.5px;
+  width: 1133.8px;
+}
+.bipolar-disorder,
+.national-institute-of {
+  top: 4767.7px;
+  color: var(--color-gray-300);
+  width: 1308.2px;
+}
+.bipolar-disorder {
+  top: 5019.7px;
+  font-size: var(--font-size-213xl-6);
+  letter-spacing: 5.35px;
+  line-height: 279.09px;
+  font-family: var(--font-playfair-display);
+  color: var(--color-gray-400);
+  width: 1820px;
+}
+.bipolar-disorder-is,
+.insomnia,
+.signs-and-symptoms1,
+.withdrawal {
+  position: absolute;
+  top: 5446.1px;
+  left: 2228.8px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2897.5px;
+}
+.insomnia,
+.signs-and-symptoms1,
+.withdrawal {
+  top: 6017.8px;
+  width: 1943px;
+}
+.insomnia,
+.withdrawal {
+  top: 6134.1px;
+  left: 2408.1px;
+  width: 431.2px;
+}
+.insomnia {
+  top: 6250.4px;
+  width: 348.9px;
+}
+.difficulty-concentrating,
+.loss-of-appetite,
+.loss-of-interest1,
+.sluggish-thinking {
+  position: absolute;
+  top: 6366.7px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 596px;
+}
+.difficulty-concentrating,
+.loss-of-interest1,
+.sluggish-thinking {
+  top: 6483px;
+  width: 644.4px;
+}
+.difficulty-concentrating,
+.loss-of-interest1 {
+  top: 6599.2px;
+  width: 906.1px;
+}
+.loss-of-interest1 {
+  top: 6715.5px;
+  width: 610.5px;
+}
+.decreased-libido,
+.difficulty-sleeping-early-mor1,
+.fatigue,
+.thoughts-of-death1 {
+  position: absolute;
+  top: 6831.8px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 295.6px;
+}
+.decreased-libido,
+.difficulty-sleeping-early-mor1,
+.thoughts-of-death1 {
+  top: 6948.1px;
+  width: 620.2px;
+}
+.difficulty-sleeping-early-mor1,
+.thoughts-of-death1 {
+  top: 7064.4px;
+  width: 2291.8px;
+}
+.thoughts-of-death1 {
+  top: 7180.7px;
+  width: 1066px;
+}
+.elevated-mood,
+.exaggerated-self-confidence,
+.signs-and-symptoms2 {
+  position: absolute;
+  top: 7413.3px;
+  left: 2228.8px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 1768.5px;
+}
+.elevated-mood,
+.exaggerated-self-confidence {
+  top: 7529.5px;
+  left: 2408.1px;
+  width: 557.2px;
+}
+.exaggerated-self-confidence {
+  top: 7645.8px;
+  width: 1085.3px;
+}
+.excessive-make-up,
+.increased-libido,
+.insomnia-decreased-need,
+.racing-thoughts {
+  position: absolute;
+  top: 7762.1px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 625px;
+}
+.excessive-make-up,
+.increased-libido,
+.insomnia-decreased-need {
+  top: 7878.4px;
+  width: 1332.4px;
+}
+.excessive-make-up,
+.increased-libido {
+  top: 7994.7px;
+  width: 683.2px;
+}
+.increased-libido {
+  top: 8111px;
+  width: 615.3px;
+}
+.distractibility,
+.high-energy,
+.poor-decision-making,
+.unusual-talkativeness {
+  position: absolute;
+  top: 8227.3px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 455.5px;
+}
+.distractibility,
+.poor-decision-making,
+.unusual-talkativeness {
+  top: 8343.5px;
+  width: 804.3px;
+}
+.distractibility,
+.poor-decision-making {
+  top: 8459.8px;
+  width: 523.3px;
+}
+.poor-decision-making {
+  top: 8576.1px;
+  width: 823.7px;
+}
+.anxiety-disorder,
+.httpswwwnimhnihgovhealt,
+.learn-more-about1,
+.not-everyone-with {
+  position: absolute;
+  top: 8818.4px;
+  left: 2228.8px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2766.6px;
+}
+.anxiety-disorder,
+.httpswwwnimhnihgovhealt,
+.learn-more-about1 {
+  top: 9273.8px;
+  width: 1327.6px;
+}
+.anxiety-disorder,
+.httpswwwnimhnihgovhealt {
+  top: 9390.1px;
+  color: var(--color-gray-300);
+  width: 2209.4px;
+}
+.anxiety-disorder {
+  top: 9642.1px;
+  font-size: var(--font-size-208xl-7);
+  letter-spacing: 5.35px;
+  line-height: 279.09px;
+  font-family: var(--font-playfair-display);
+  color: var(--color-gray-400);
+  width: 1846px;
+}
+.generalized-anxiety-disorder,
+.signs-and-symptoms3 {
+  position: absolute;
+  top: 10063.6px;
+  left: 2228.8px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2727.9px;
+}
+.signs-and-symptoms3 {
+  top: 10519.1px;
+  width: 1356.7px;
+}
+.being-easily-fatigued,
+.difficulty-concentrating1,
+.restlessness-or-feeling {
+  position: absolute;
+  top: 10635.4px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 1172.6px;
+}
+.being-easily-fatigued,
+.difficulty-concentrating1 {
+  top: 10751.6px;
+  width: 1773.4px;
+}
+.difficulty-concentrating1 {
+  top: 10867.9px;
+  width: 915.8px;
+}
+.difficulty-controlling-worries,
+.irritability1,
+.muscle-tension,
+.not-being-able {
+  position: absolute;
+  top: 10984.2px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 377.9px;
+}
+.difficulty-controlling-worries,
+.muscle-tension,
+.not-being-able {
+  top: 11100.5px;
+  width: 562.1px;
+}
+.difficulty-controlling-worries,
+.not-being-able {
+  top: 11216.8px;
+  width: 1918.7px;
+}
+.not-being-able {
+  top: 11333.1px;
+  width: 843.1px;
+}
+.difficulty-falling-or,
+.fast-or-irregular,
+.sweating-or-feeling,
+.trembling-or-shaking {
+  position: absolute;
+  top: 11449.4px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 1235.5px;
+}
+.fast-or-irregular,
+.sweating-or-feeling,
+.trembling-or-shaking {
+  top: 11565.6px;
+  width: 794.6px;
+}
+.fast-or-irregular,
+.sweating-or-feeling {
+  top: 11681.9px;
+  width: 1216.2px;
+}
+.fast-or-irregular {
+  top: 11798.2px;
+  width: 1007.8px;
+}
+.learn-more-about2,
+.not-everyone-experiencing1,
+.shortness-of-breath,
+.upset-stomach {
+  position: absolute;
+  top: 11914.5px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 741.3px;
+}
+.learn-more-about2,
+.not-everyone-experiencing1,
+.upset-stomach {
+  top: 12030.8px;
+  width: 591.1px;
+}
+.learn-more-about2,
+.not-everyone-experiencing1 {
+  top: 12273.1px;
+  left: 2228.8px;
+  width: 2941.1px;
+}
+.learn-more-about2 {
+  top: 12612.2px;
+  width: 1938.1px;
+}
+.national-institute-of1 {
+  top: 12728.5px;
+  line-height: 116.29px;
+  color: var(--color-gray-300);
+  width: 1308.2px;
+}
+.dementia,
+.dementia-is-a,
+.national-institute-of1,
+.signs-and-symptoms4 {
+  position: absolute;
+  left: 2228.8px;
+  display: inline-block;
+}
+.dementia {
+  top: 13096.7px;
+  font-size: var(--font-size-213xl-6);
+  letter-spacing: 5.35px;
+  line-height: 279.09px;
+  font-family: var(--font-playfair-display);
+  color: var(--color-gray-400);
+  width: 1061.1px;
+}
+.dementia-is-a,
+.signs-and-symptoms4 {
+  top: 13523.1px;
+  line-height: 116.29px;
+  width: 2936.2px;
+}
+.signs-and-symptoms4 {
+  top: 13978.6px;
+  width: 1545.6px;
+}
+.difficulty-concentrating-plan,
+.difficulty-recalling-recent {
+  position: absolute;
+  top: 14094.9px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 1216.2px;
+}
+.difficulty-concentrating-plan {
+  top: 14220.8px;
+  width: 2631px;
+}
+.confusion-in-the,
+.difficulty-following-conversat,
+.frequently-losing-or,
+.losing-track-of {
+  position: absolute;
+  top: 14443.7px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 1429.4px;
+}
+.confusion-in-the,
+.difficulty-following-conversat,
+.losing-track-of {
+  top: 14569.7px;
+  width: 2451.7px;
+}
+.confusion-in-the,
+.losing-track-of {
+  top: 14792.6px;
+  width: 1148.3px;
+}
+.losing-track-of {
+  top: 14908.9px;
+  width: 1153.2px;
+}
+.confusion-about-whereabouts,
+.forgetting-the-names,
+.irritability-or-personality,
+.seeing-things-that {
+  position: absolute;
+  top: 15025.2px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 1114.4px;
+}
+.forgetting-the-names,
+.irritability-or-personality,
+.seeing-things-that {
+  top: 15141.4px;
+  width: 2136.8px;
+}
+.irritability-or-personality,
+.seeing-things-that {
+  top: 15257.7px;
+  width: 1254.9px;
+}
+.seeing-things-that {
+  top: 15383.7px;
+  width: 2650.4px;
+}
+.httpswwwcdcgovagingdeme,
+.learn-more-about3,
+.not-everyone-with1,
+.smoking-addiction1 {
+  position: absolute;
+  top: 15732.6px;
+  left: 2228.8px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2878.1px;
+}
+.httpswwwcdcgovagingdeme,
+.learn-more-about3,
+.smoking-addiction1 {
+  top: 16071.7px;
+  width: 1070.8px;
+}
+.httpswwwcdcgovagingdeme,
+.smoking-addiction1 {
+  top: 16188px;
+  color: var(--color-gray-300);
+  width: 1889.7px;
+}
+.smoking-addiction1 {
+  top: 16440px;
+  font-size: var(--font-size-213xl-6);
+  letter-spacing: 5.35px;
+  line-height: 279.09px;
+  font-family: var(--font-playfair-display);
+  color: var(--color-gray-400);
+  width: 2068.9px;
+}
+.symptoms-of-smoking,
+.tobacco-is-one {
+  position: absolute;
+  top: 16861.5px;
+  left: 2228.8px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2941.1px;
+}
+.symptoms-of-smoking {
+  top: 17317px;
+  width: 1594.1px;
+}
+.inability-to-stop,
+.need-tobacco-products,
+.urge-to-smoke,
+.withdrawal-symptoms-when {
+  position: absolute;
+  top: 17433.3px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2287px;
+}
+.need-tobacco-products,
+.urge-to-smoke,
+.withdrawal-symptoms-when {
+  top: 17559.2px;
+  width: 2485.6px;
+}
+.need-tobacco-products,
+.urge-to-smoke {
+  top: 17791.8px;
+  width: 2597.1px;
+}
+.need-tobacco-products {
+  top: 18014.7px;
+  width: 1453.6px;
+}
+.avoids-activities-or,
+.continues-to-smoke,
+.httpswwwcdcgovtobaccoca,
+.learn-more-about4 {
+  position: absolute;
+  top: 18131px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2044.7px;
+}
+.continues-to-smoke,
+.httpswwwcdcgovtobaccoca,
+.learn-more-about4 {
+  top: 18247.3px;
+  width: 1657.1px;
+}
+.httpswwwcdcgovtobaccoca,
+.learn-more-about4 {
+  top: 18479.8px;
+  left: 2228.8px;
+  width: 1492.3px;
+}
+.httpswwwcdcgovtobaccoca {
+  top: 18596.1px;
+  color: var(--color-gray-300);
+  width: 2737.6px;
+}
+.httpswwwmayoclinicorghea {
+  top: 18838.4px;
+  line-height: 116.29px;
+  color: var(--color-gray-300);
+  width: 2403.3px;
+}
+.httpswwwmayoclinicorghea,
+.insomnia-is-a,
+.insomnia1,
+.signs-and-symptoms5 {
+  position: absolute;
+  left: 2228.8px;
+  display: inline-block;
+}
+.insomnia1 {
+  top: 19196.9px;
+  font-size: var(--font-size-213xl-6);
+  letter-spacing: 5.35px;
+  line-height: 279.09px;
+  font-family: var(--font-playfair-display);
+  color: var(--color-gray-400);
+  width: 1022.4px;
+}
+.insomnia-is-a,
+.signs-and-symptoms5 {
+  top: 19623.3px;
+  line-height: 116.29px;
+  width: 2945.9px;
+}
+.signs-and-symptoms5 {
+  top: 20311.3px;
+  width: 1531.1px;
+}
+.having-difficulty-falling,
+.headaches,
+.not-feeling-well,
+.waking-up-throughout,
+.waking-up-too {
+  position: absolute;
+  top: 20427.6px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 1419.7px;
+}
+.headaches,
+.not-feeling-well,
+.waking-up-throughout,
+.waking-up-too {
+  top: 20543.9px;
+  width: 1182.2px;
+}
+.headaches,
+.not-feeling-well,
+.waking-up-too {
+  top: 20660.2px;
+  width: 736.5px;
+}
+.headaches,
+.not-feeling-well {
+  top: 20776.5px;
+  width: 411.8px;
+}
+.not-feeling-well {
+  top: 20892.8px;
+  width: 1584.4px;
+}
+.having-difficulty-with,
+.increase-in-mistakes,
+.irritability-depression-or,
+.worrying-about-sleep {
+  position: absolute;
+  top: 21009.1px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 1240.4px;
+}
+.having-difficulty-with,
+.increase-in-mistakes,
+.worrying-about-sleep {
+  top: 21125.3px;
+  width: 1502px;
+}
+.increase-in-mistakes,
+.worrying-about-sleep {
+  top: 21241.6px;
+  width: 1254.9px;
+}
+.worrying-about-sleep {
+  top: 21357.9px;
+  width: 799.5px;
+}
+.httpswwwpsychiatryorgpat,
+.learn-more-about5,
+.post-traumatic-stress {
+  position: absolute;
+  top: 21590.5px;
+  left: 2228.8px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2156.1px;
+}
+.httpswwwpsychiatryorgpat,
+.post-traumatic-stress {
+  top: 21716.5px;
+  color: var(--color-gray-300);
+  width: 2805.4px;
+}
+.post-traumatic-stress {
+  top: 22075px;
+  font-size: var(--font-size-208xl-7);
+  letter-spacing: 5.35px;
+  line-height: 279.09px;
+  font-family: var(--font-playfair-display);
+  color: var(--color-gray-400);
+  width: 2369.3px;
+}
+.post-traumatic-stress1,
+.signs-and-symptoms6 {
+  position: absolute;
+  top: 22501.4px;
+  left: 2228.8px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2916.8px;
+}
+.signs-and-symptoms6 {
+  top: 23073.1px;
+  width: 1395.4px;
+}
+.flashbacks-reliving,
+.frightening-thoughts-or,
+.nightmares,
+.racing-heart-or {
+  position: absolute;
+  top: 23189.4px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 1734.6px;
+}
+.frightening-thoughts-or,
+.nightmares,
+.racing-heart-or {
+  top: 23305.7px;
+  width: 940px;
+}
+.frightening-thoughts-or,
+.nightmares {
+  top: 23422px;
+  width: 445.8px;
+}
+.frightening-thoughts-or {
+  top: 23538.3px;
+  width: 1187.1px;
+}
+.avoidance-of-places,
+.being-easily-startled,
+.feeling-tense-or,
+.having-trouble-remembering {
+  position: absolute;
+  top: 23654.6px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2374.2px;
+}
+.being-easily-startled,
+.feeling-tense-or,
+.having-trouble-remembering {
+  top: 23770.9px;
+  width: 2199.7px;
+}
+.being-easily-startled,
+.feeling-tense-or {
+  top: 23887.1px;
+  width: 751px;
+}
+.feeling-tense-or {
+  top: 24003.4px;
+  width: 925.4px;
+}
+.distorted-feelings-of,
+.having-difficulty-sleeping,
+.irritability-or-aggressive,
+.loss-of-interest2 {
+  position: absolute;
+  top: 24119.7px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 935.1px;
+}
+.distorted-feelings-of,
+.irritability-or-aggressive,
+.loss-of-interest2 {
+  top: 24236px;
+  width: 1405.1px;
+}
+.distorted-feelings-of,
+.irritability-or-aggressive {
+  top: 24352.3px;
+  width: 1918.7px;
+}
+.irritability-or-aggressive {
+  top: 24468.6px;
+  width: 1245.2px;
+}
+.it-is-natural,
+.learn-more-about6,
+.national-institute-of2,
+.schizophrenia-and-psychosis {
+  position: absolute;
+  top: 24710.8px;
+  left: 2228.8px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2776.3px;
+}
+.learn-more-about6,
+.national-institute-of2,
+.schizophrenia-and-psychosis {
+  top: 25166.3px;
+  width: 920.6px;
+}
+.national-institute-of2,
+.schizophrenia-and-psychosis {
+  top: 25282.6px;
+  color: var(--color-gray-300);
+  width: 1308.2px;
+}
+.schizophrenia-and-psychosis {
+  top: 25534.5px;
+  font-size: var(--font-size-213xl-6);
+  letter-spacing: 5.35px;
+  line-height: 279.09px;
+  font-family: var(--font-playfair-display);
+  color: var(--color-gray-400);
+  width: 2025.3px;
+}
+.schizophrenia-is-a,
+.symptoms-of-schizophrenia {
+  position: absolute;
+  top: 26237.1px;
+  left: 2228.8px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2863.6px;
+}
+.symptoms-of-schizophrenia {
+  top: 26934.8px;
+  width: 2916.8px;
+}
+.delusions-irrational-or,
+.hallucinations-hearing-or,
+.positive-symptoms-include {
+  position: absolute;
+  top: 27157.7px;
+  left: 2228.8px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 1768.5px;
+}
+.delusions-irrational-or,
+.hallucinations-hearing-or {
+  top: 27274px;
+  left: 2408.1px;
+  width: 2214.3px;
+}
+.delusions-irrational-or {
+  top: 27390.3px;
+  width: 2631px;
+}
+.agitated-body-movements,
+.negative-symptoms-include,
+.paranoia-or-feelings {
+  position: absolute;
+  top: 27506.6px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 1410px;
+}
+.agitated-body-movements,
+.negative-symptoms-include {
+  top: 27622.8px;
+  width: 2025.3px;
+}
+.negative-symptoms-include {
+  top: 27739.1px;
+  left: 2228.8px;
+  width: 2408.1px;
+}
+.change-in-personality,
+.feeling-indifferent-or,
+.flat-affect {
+  position: absolute;
+  top: 27855.4px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 387.6px;
+}
+.change-in-personality,
+.feeling-indifferent-or {
+  top: 27971.7px;
+  width: 1027.2px;
+}
+.change-in-personality {
+  top: 28088px;
+  width: 809.2px;
+}
+.change-in-personal,
+.inability-to-sleep,
+.increasing-withdrawal-from,
+.irrational-angry-or {
+  position: absolute;
+  top: 28204.3px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 1647.4px;
+}
+.inability-to-sleep,
+.increasing-withdrawal-from,
+.irrational-angry-or {
+  top: 28320.6px;
+  width: 1666.8px;
+}
+.inability-to-sleep,
+.irrational-angry-or {
+  top: 28436.8px;
+  width: 1894.5px;
+}
+.inability-to-sleep {
+  top: 28553.1px;
+  width: 1206.5px;
+}
+.cognitive-symptoms-include,
+.poor-executive-functioning,
+.trouble-focusing-or {
+  position: absolute;
+  top: 28669.4px;
+  left: 2228.8px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2301.5px;
+}
+.poor-executive-functioning,
+.trouble-focusing-or {
+  top: 28795.4px;
+  left: 2408.1px;
+  width: 2568px;
+}
+.trouble-focusing-or {
+  top: 29018.3px;
+  width: 1376.1px;
+}
+.contact-us1,
+.learn-more-about7,
+.national-institute-of3,
+.problems-with-working {
+  position: absolute;
+  top: 29144.3px;
+  left: 2408.1px;
+  line-height: 116.29px;
+  display: inline-block;
+  width: 2451.7px;
+}
+.contact-us1,
+.learn-more-about7,
+.national-institute-of3 {
+  top: 29483.4px;
+  left: 2228.8px;
+  width: 1778.2px;
+}
+.contact-us1,
+.national-institute-of3 {
+  top: 29599.7px;
+  color: var(--color-gray-300);
+  width: 1308.2px;
+}
+.contact-us1 {
+  top: 30205.4px;
+  left: 3401.4px;
+  font-size: 106.6px;
+  letter-spacing: 4.8px;
+  line-height: 133.24px;
+  color: var(--color-white);
+  text-align: center;
+  width: 605.7px;
+}
+.mind-and-body1,
+.phone-708-260-2030 {
+  line-height: 116.29px;
+  text-align: center;
+}
+.mind-and-body1 {
+  position: absolute;
+  top: 30457.3px;
+  left: 3159.1px;
+  color: var(--color-white);
+  display: inline-block;
+  width: 1085.3px;
+}
+.phone-708-260-2030 {
+  top: 30573.6px;
+  left: 3309.3px;
+  width: 789.8px;
+}
+.copyright-2024,
+.mbwellnessonlinegmailcom,
+.mind-and-body2,
+.phone-708-260-2030 {
+  position: absolute;
+  color: var(--color-white);
+  display: inline-block;
+}
+.mbwellnessonlinegmailcom {
+  top: 30689.9px;
+  left: 3149.4px;
+  line-height: 116.29px;
+  text-align: center;
+  width: 1109.6px;
+}
+.copyright-2024,
+.mind-and-body2 {
+  top: 31387.6px;
+  left: 639.6px;
+  font-size: var(--font-size-39xl-1);
+  letter-spacing: 4.83px;
+  line-height: 87.21px;
+  text-transform: uppercase;
+  width: 2102.8px;
+}
+.mind-and-body2 {
+  top: 31421.5px;
+  left: 3730.9px;
+  text-align: right;
+  width: 1443.9px;
+}
+.background-icon {
+  position: absolute;
+  top: 2031.6px;
+  left: 380px;
+  width: 1678px;
+  height: 1225px;
+  object-fit: cover;
+}
+.mental-health-info {
+  width: 100%;
+  height: 32967.2px;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-58xl-5);
+  color: var(--color-dimgray-100);
+  font-family: var(--font-lora);
+}
